@@ -21,6 +21,7 @@
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
           <failOnMissingWebXml>false</failOnMissingWebXml>
+		  <outputDirectory>${dir}</outputDirectory>
         </configuration>
       </plugin>	  
     </plugins>

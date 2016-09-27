@@ -244,7 +244,7 @@ under the License.
         <tomcatPath>/path/to/tomcat/instance</tomcatPath>
       </properties>
     </profile>
-    -->
+    -->	
   </profiles>
 
   <!-- activeProfiles
